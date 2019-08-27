@@ -4,7 +4,7 @@ from discord.ext import commands
 from itertools import cycle
 import youtube_dl
 
-token= 'NDcwMDI3Njc1ODkzNzYwMDEw.DjQTqA.MEOeHqRTVGBC_AGJd_kbvI5epY8'
+token= 'token'
 
 client = commands.Bot(command_prefix= '>')
 
